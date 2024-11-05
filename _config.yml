@@ -27,8 +27,9 @@ author:
   bio              : "Assistant Research Scientist"
   location         : "Princeton, NJ, US"
   employer:
-    line1          : "ESSIC/University of Maryland,College Park"
-    line2          : "GMAO/NASA-Goddard"
+    line1          : "ESSIC"
+    line2          :"University of Maryland,College Park"
+    line3          : "GMAO/NASA-Goddard"
   official_email   : "xzhou110@umd.edu"
   personal_email   : "xiaohuizhou4work@gmail.com"
 
