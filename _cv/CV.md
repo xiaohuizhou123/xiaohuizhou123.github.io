@@ -1,5 +1,4 @@
----
-title: "CV"
-date: 2024-10-01
-pdf: '/files/XiaohuiZhouCV.pdf'
----
+### CV
+**Date**: February 14, 2023  
+- [Download PDF](/files/XiaohuiZhouCV.pdf)
+
