@@ -1,6 +1,6 @@
 ---
 title: "surface wave grow and decay modulates at air-sea interface and bottom atmospherical boundary layer and upper ocean dynamics"
-excerpt: "<br/><img src='/images/air-sea-interaction2.jpg'>"
+excerpt: "Surface wave dynamics cross multi-scale dynamics from micro meter to kilometer, it is a key modulator for air-sea momentum transport and controls the global climate <br/><img src='/images/air-sea-interaction2.jpg'>"
 collection: portfolio
 ---
 
