@@ -25,10 +25,11 @@ author:
   name             : "Xiaohui Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Research Scientist"
-  location         : "Earth"
-  employer         : "ESSIC/University of Maryland-College Park, GMAO/NASA-Goddard"
-  uri              : # URL
+  location         : "Princeton, NJ, US"
+  employer         : "ESSIC/University of Maryland,College Park"
+  employer         : "& GMAO/NASA-Goddard"
   email            : "xzhou110@umd.edu" 
+  personal email   : "xiaohuizhou4work@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
