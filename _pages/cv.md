@@ -2,13 +2,8 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+date: 2024-10-01
+paperurl: 'http://xiaohuizhou123.github.io/files/XiaohuiZhouCV.pdf'
+pdf: 'http://xiaohuizhou123.github.io/files/XiaohuiZhouCV.pdf'
 redirect_from:
   - /resume
----
-
-{% include base_path %}
-
-()
-CV-updated 2024-03
-![CV]('/files/XiaohuiZhouCV.pdf')
