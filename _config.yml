@@ -218,7 +218,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  research:
+    output: true
+    permalink: /:collection/:path/
+  cv:
     output: true
     permalink: /:collection/:path/
 
@@ -279,12 +282,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _cv
   - scope:
       path: ""
-      type: talks
+      type: cv
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
